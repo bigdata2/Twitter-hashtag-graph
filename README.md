@@ -1,7 +1,7 @@
-Insight Data Engineering - Coding Challenge
+# Insight Data Engineering - Coding Challenge
 
 This repository contains the code for Insight Data Engineering coding challange to clean and extract data from 
-tweets, create a graph of hashtags in a tweet, and update the graph in a 60 seconds rolling window. 
+tweets, create a graph of hashtags in a tweet, and update the graph in a 60 seconds rolling window. A detailed description of the coding challenge can be found [here](https://github.com/InsightDataScience/coding-challenge)
 
 This code was written and tested on CentOS with Python 3.5. It is assumed that python 3.5 executable is added to the path and is named as python3. If the python 3.5 executable is installed as python, please change run.sh to reflect that. This code will NOT work as is with python 2.x.
 
