@@ -1,4 +1,4 @@
-# Insight Data Engineering - Coding Challenge
+# Twitter Hashtag Graph
 
 This repository contains the code to clean and extract data from tweets, create a graph of hashtags present in tweets, and update the graph in a 60 seconds rolling window. 
 
